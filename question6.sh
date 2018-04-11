@@ -1,15 +1,4 @@
 #!/bin/bash
-clear
-echo haha i just hacked your computer
-sleep 1
-clear
-echo haha just kidding bro
-sleep 1
-clear
-echo tell me about yourself
-echo what is your  name
-read name
-echo $name ,nice to meet you ..
 sleep 1
 clear
 sum=0
